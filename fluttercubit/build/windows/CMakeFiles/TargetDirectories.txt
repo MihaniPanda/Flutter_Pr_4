@@ -1,0 +1,10 @@
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/CMakeFiles/INSTALL.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/CMakeFiles/fluttercubit.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/CMakeFiles/ALL_BUILD.dir

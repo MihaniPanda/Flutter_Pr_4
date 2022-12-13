@@ -1,0 +1,9 @@
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/icudtl.dat
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/flutter_windows.dll
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/All project/practicFlutter1-praktika4/praktika4/fluttercubit/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
